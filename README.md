@@ -21,3 +21,5 @@ stytle="display: inline_block"><br/>
 
 Em processo de transição de carreira.
 
+
+![snake gif](https://github.com/intergriff/intergriff/blob/output/github-contribution-grid-snake.gif)
