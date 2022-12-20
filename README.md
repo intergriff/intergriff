@@ -21,4 +21,4 @@ stytle="display: inline_block"><br/>
 
 Em processo de transição de carreira.
 
-![snake elf](https://github.com/intergriff/intergriff/bob/output/github-contribuition-grid.snake.svg
+![snake eif](https://github.com/intergriff/intergriff/bob/output/github-contribuition-grid.snake.svg
